@@ -125,11 +125,10 @@ footer {
     justify-content: center;
     margin-top: 20px;
     padding: 10px;
-    gap: 10px;
+  
 }
 div.copy {
     color: rgb(204, 219, 220) ;
-    justify-self: center;
 }
 footer ul {
     margin: 0;
