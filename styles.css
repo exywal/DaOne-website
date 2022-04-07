@@ -98,8 +98,8 @@ img {
     padding: 10px;
 }
 
-aside >div>a {
-    padding: 10px;
+aside > a {
+    padding: 5px;
     color: #fff;
     text-decoration: none;
 }
